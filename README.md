@@ -1,2 +1,2 @@
 # santacaweb1
-Trabajo Práctico de Ale, Clara y José
+Trabajo Práctico de Geología de Primero de la Media
